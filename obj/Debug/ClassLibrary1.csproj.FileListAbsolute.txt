@@ -1,0 +1,105 @@
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Zstandard.Net.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Buffers.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Memory.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.Build.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Text.Json.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Zstandard.Net.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Buffers.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Memory.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.Build.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Text.Json.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Ангелина\OneDrive\Рабочий стол\Колледж\тестирование 21\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
